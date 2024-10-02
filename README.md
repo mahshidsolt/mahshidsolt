@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahshidsolt
 - 👀 I’m interested in 
-- 🌱 I’m currently learning backend and cyber security as a beginner 
+- 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on nothing, actually still learning.
 - 📫 How to reach me : mahshidsol1384@gmail.com
 - 😄 Pronouns: she/her
