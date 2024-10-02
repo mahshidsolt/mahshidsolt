@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahshidsolt
-- 👀 I’m interested in backend and cyber security
+- 👀 I’m interested in 
 - 🌱 I’m currently learning backend and cyber security as a beginner 
 - 💞️ I’m looking to collaborate on nothing, actually still learning.
 - 📫 How to reach me : mahshidsol1384@gmail.com
