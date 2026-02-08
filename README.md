@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahshidsolt
-- 👀 I’m interested in 
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on nothing, actually still learning.
+- 👀 I’m interested in Machine learning and deep learning
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on ML/DL projects
 - 📫 How to reach me : mahshidsol1384@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact ... haven't got any!
